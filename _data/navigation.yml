@@ -6,9 +6,6 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=HjK8Hz0AAAAJ&hl=en&oi=ao
 
-  - title: "Media"
-    url: https://www.youtube.com/@PruthviManjunatha/videos   
-
   - title: "Teaching"
     url: /teaching/    
             
@@ -17,6 +14,9 @@ main:
     
   - title: "CV"
     url: /files/Pruthvi_CV Q4 2023.pdf
+
+  - title: "Media"
+    url: https://www.youtube.com/@PruthviManjunatha/videos   
     
  # - title: "Guide"
  #   url: /markdown/
