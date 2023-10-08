@@ -1,6 +1,6 @@
 ---
 title: "Emerging Transportation Technologies"
-excerpt: "For the emerging transportation technologies such as Connected and Autonmous Vehicles (CAVs), Advance Driver Assitance Systems (ADAS), sensor based safety applications and Cooperative Driving Automation (CDA)  to have successful impact on mobility and safety, evaluating technologies from the following three perspectives is critical- 1.Vehicle 2.Infrastructure and 3.Roadusers.
+excerpt: "For the emerging transportation technologies such as Connected and Autonomous Vehicles (CAVs), Advance Driver Assistance Systems (ADAS), sensor based safety applications and Cooperative Driving Automation (CDA)  to have successful impact on mobility and safety, evaluating technologies from the following three perspectives is critical- 1.Vehicle 2.Infrastructure and 3.Roadusers.
 __**Click on the Title to Learn More**__ <br/><img src='/images/threeway.png'>"
 collection: portfolio
 ---
