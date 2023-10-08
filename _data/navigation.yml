@@ -3,20 +3,19 @@ main:
   - title: "Research"
     url: /portfolio/
     
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=HjK8Hz0AAAAJ&hl=en&oi=ao
-
   - title: "Teaching"
     url: /teaching/    
             
  # - title: "Blog Posts"
  #   url: /year-archive/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=HjK8Hz0AAAAJ&hl=en&oi=ao
     
-  - title: "CV"
-    url: /files/Pruthvi_CV Q4 2023.pdf
-
   - title: "Presentations and Media"
     url: https://www.youtube.com/@PruthviManjunatha/videos   
+
+  - title: "CV"
+    url: /files/Pruthvi_CV Q4 2023.pdf
     
  # - title: "Guide"
  #   url: /markdown/
