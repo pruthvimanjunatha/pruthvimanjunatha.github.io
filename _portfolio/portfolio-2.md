@@ -1,7 +1,7 @@
 ---
 title: "Traffic Microsimulation, Traffic Psychology and Human Factors "
 excerpt: "As Traffic Psychology and Traffic Engineering continue to develop as two separate fields of research, one of my long-term interests has been to seek out collaboration and funding opportunities to identify the common goals between these two fields for future research.
-**Click the Title to Learn More** <br/><img src='/images/500x300.png'>"
+**Click the Title to Learn More** <br/><img src='/images/simulation.png'>"
 collection: portfolio
 ---
 
