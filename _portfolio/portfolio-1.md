@@ -2,7 +2,7 @@
 title: "Emerging Transportation Technologies"
 excerpt: "For the emerging transportation technologies to have a successful impact on mobility and safety, three elements are critical- 
 Vehicle, Infrastructure and Roadusers.
-Click on the Title to Learn More <br/><img src='/images/threeway.png'>{: .align-center width="300px"}"
+__**Click on the Title to Learn More**__ <br/><img src='/images/threeway.png'>"
 collection: portfolio
 ---
 
