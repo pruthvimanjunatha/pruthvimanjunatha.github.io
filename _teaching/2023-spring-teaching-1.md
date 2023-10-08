@@ -2,7 +2,7 @@
 title: "Connected and Autonomous Vehicles"
 collection: teaching
 type: "Undergraduate and graduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-1
 venue: "STRIDE UTC"
 date: 2023-10-10
 location: "Gainesville, FL"
