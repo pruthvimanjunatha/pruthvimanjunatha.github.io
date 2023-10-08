@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 
-1.	Vehicle – Along with [AVIAN researh group] (http://avian.essie.ufl.edu/) at UFTI, I develop and test Connected and Autonomous Vehicle (CAV) technologies. I conduct research on the design of effective in-vehicle devices and Advanced Driver Assistance Systems (ADAS). I have and would like to continue to collaborate with FHWA's program for Cooperative Driving Automation (CDA).
+1.	Vehicle – Along with [AVIAN research group](http://avian.essie.ufl.edu/) at UFTI, I develop and test Connected and Autonomous Vehicle (CAV) technologies. I conduct research on the design of effective in-vehicle devices and Advanced Driver Assistance Systems (ADAS). I have and would like to continue to collaborate with FHWA's program for Cooperative Driving Automation (CDA).
    
 2.	Infrastructure – I conduct research on signal optimization using connected vehicles, evaluating pedestrian and bicyclist safety applications, and developing simulation frameworks for analyzing the impact of CAVs. DOTs are investing in emerging technologies through multi-million-dollar infrastructure projects. It is vital to assess the effectiveness of the technologies being deployed.
  
