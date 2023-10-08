@@ -1,13 +1,12 @@
 ---
 title: "Emerging Transportation Technologies"
-excerpt: "For the emerging transportation technologies to have a successful impact on mobility and safety, three elements are critical- 
-Vehicle, Infrastructure and Roadusers.
+excerpt: "For the emerging transportation technologies such as Connected and Autonmous Vehicles (CAVs), Advance Driver Assitance Systems (ADAS), sensor based safety applications and Cooperative Driving Automation (CDA)  to have successful impact on mobility and safety, evaluating technologies from the following three perspectives is critical- 1.Vehicle 2.Infrastructure and 3.Roadusers.
 __**Click on the Title to Learn More**__ <br/><img src='/images/threeway.png'>"
 collection: portfolio
 ---
 
 
-1.	Vehicle – Along with AVIAN researh group at UFTI, I develop and test Connected and Autonomous Vehicle (CAV) technologies. I conduct research on the design of effective in-vehicle devices and Advanced Driver Assistance Systems (ADAS). I have and would like to continue to collaborate with FHWA's program for Cooperative Driving Automation (CDA).
+1.	Vehicle – Along with [AVIAN researh group] (http://avian.essie.ufl.edu/) at UFTI, I develop and test Connected and Autonomous Vehicle (CAV) technologies. I conduct research on the design of effective in-vehicle devices and Advanced Driver Assistance Systems (ADAS). I have and would like to continue to collaborate with FHWA's program for Cooperative Driving Automation (CDA).
    
 2.	Infrastructure – I conduct research on signal optimization using connected vehicles, evaluating pedestrian and bicyclist safety applications, and developing simulation frameworks for analyzing the impact of CAVs. DOTs are investing in emerging technologies through multi-million-dollar infrastructure projects. It is vital to assess the effectiveness of the technologies being deployed.
  
