@@ -5,19 +5,19 @@ main:
     
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Industry"
+    url: /images/industry.png
     
  # - title: "Blog Posts"
  #   url: /year-archive/
   - title: "Publications"
     url: https://scholar.google.com/citations?user=HjK8Hz0AAAAJ&hl=en&oi=ao
    
-  - title: "Presentations and Media"
+  - title: "Media"
     url: https://www.youtube.com/@PruthviManjunatha/videos   
 
-  - title: "Industry Collaborations"
-    url: /images/industry.png
-
-  - title: "Curriculum Vitae (CV)"
+  - title: "CV"
     url: /files/Pruthvi_CV Q4 2023.pdf
     
  # - title: "Guide"
