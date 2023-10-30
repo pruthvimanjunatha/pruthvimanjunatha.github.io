@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a Research Assistant Professor in the Department of Civil and Coastal Engineering at University of Florida and I manage the [I-STREET emerging transportation technologies program](https://istreet.ce.ufl.edu/about).
+I am a Research Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida and I manage the [I-STREET emerging transportation technologies program](https://istreet.ce.ufl.edu/about).
 
-I have more than ten years of experience in transportation engineering, which includes teaching, research and working in the industry. My experience has been in Connected and Autonomous Vehicle (CAV) infrastructure, Human Factors and Driver Behavior, Traffic Simulation, Intelligent Transportation Systems (ITS), traffic operations and data management.
+I have more than ten years of experience in transportation engineering, which includes teaching, research and working in the industry. My expertise lies in the fields of Connected and Autonomous Vehicle (CAV) infrastructure, Human Factors and Driver Behavior, Traffic Simulation, Intelligent Transportation Systems (ITS), traffic operations and data management.
 
 **I-STREET (Implementing Solutions from Transportation Research and Evaluation of Emerging Technologies)**
 
