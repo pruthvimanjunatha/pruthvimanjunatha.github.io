@@ -10,11 +10,11 @@ location: "Gainesville, FL"
 
 I recently made changes to the undergraduate course curriculum at the University of Florida to meet the ABET Civil Engineering Program Criteria, to include applications of statistics to address uncertainty, and principles of sustainability and equity. 
 
-.
+
 ======
 
-.
+
 ======
 
-.
+
 ======
