@@ -13,6 +13,4 @@ I am an Assistant Professor in the School of Engineering at the *University of N
 
 Till recently (2019-2025) I managed the [I-STREET emerging transportation technologies program](https://istreet.ce.ufl.edu/about). Under my leadership, the I-STREET program created a “living lab” on the University of Florida’s (UF) campus, surrounding roadway networks, and across the state of Florida. Advanced technologies such as autonomous vehicles, smart devices, and sensors are tested and deployed to enhance mobility and safety. I-STREET started as a collaboration between the Florida Department of Transportation (FDOT), the City of Gainesville (CoG), and University of Florida’s Transportation Institute (UFTI) to further advance transportation technology development and deployment.
 
-![Figure 1: I-STREET fast facts](/images/FastFacts2.jpg){: .align-right width="300px"}
-
 
