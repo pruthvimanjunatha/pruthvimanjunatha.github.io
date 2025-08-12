@@ -8,10 +8,35 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+I am looking to hire two students for the master’s program (with Thesis option) at UNF in Jacksonville Florida, USA.
 
-Heading 1
-======
+The deadlines for applying:
+•	Spring (January) 2026 term is October 1, 2025
+•	Fall (August) 2026 term is April 1, 2026
 
-Heading 2
-======
+The position will be fully funded. The students are expected to work on traffic engineering research projects and work as graders/ teaching assistants. Please note: The continuation of funding is subject to student performance.
+
+The master’s program details can be found here:
+https://catalog.unf.edu/programs/CIV-CCEC-MSCE-MAJOR 
+
+Application details can be found here:
+https://catalog.unf.edu/resources/admissions/graduate#standard-requirements 
+
+Florida is one of the top states in the US for transportation engineering job opportunities. UNF is a part of the state university system in Florida. At the end of their master's, the students can potentially transfer to a PhD program in other state universities.
+
+Required qualifications/skills:
+1. Students must have completed an undergraduate degree or in their final year of degree
+2. The degree must be in civil engineering, transportation engineering, industrial engineering or related fields
+3. Meeting English language proficiency requirements
+4. Proficiency in at least one programing language 
+
+The following are not required but desired:
+1. Experience with research projects or internships
+2. Good academic performance 
+3. Participation in student chapters and activities beyond the classroom 
+4. Demonstration of communication skills (written and spoken)
+
+If you have questions and would like to learn more set up an appointment by email: pruthvi.manjunatha@unf.edu 
+
+
+
