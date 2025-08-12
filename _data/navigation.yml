@@ -7,7 +7,7 @@ main:
     url: /teaching/    
 
   - title: "Student Funding Opportunities"
-    url: _pages/non-menu-page.md
+    url: /pages/non-menu-page.md
     
  # - title: "Blog Posts"
  #   url: /year-archive/
