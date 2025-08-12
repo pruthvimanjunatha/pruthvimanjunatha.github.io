@@ -5,7 +5,7 @@ excerpt: "Managing the I-STREET emerging technologies program at UFTI has given 
 collection: portfolio
 ---
 
-Managing the I-STREET emerging technologies program at UFTI has given me an opportunity establish professional relationships with state and local agencies as well as industry partners. 
+Managing the I-STREET emerging technologies program at UFTI (2019-2025) has given me an opportunity establish professional relationships with state and local agencies as well as industry partners. 
 
 I have:
 
