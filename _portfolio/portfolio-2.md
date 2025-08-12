@@ -12,4 +12,4 @@ It is important to study and model human behaviors in traffic simulation, which 
 
 Along with traffic engineering, understanding human factors from traffic psychology perspective can help to reduce accident rates, improve driver assistance systems etc. I have worked extensively with driving simulators to study driver behavior and [developed instructional modules](https://rosap.ntl.bts.gov/view/dot/37166).
 
-As Traffic Psychology and Traffic Engineering continue to develop as two separate fields of research, one of my long-term interests has been to seek out collaboration and funding opportunities to identify the common goals between these two fields for future research. To address this topic, I have written research needs statement and cowritten triennial plan as the member of TRB’s Committee on Road User Measurement and Evaluation (ACH50).
+As Traffic Psychology and Traffic Engineering continue to develop as two separate fields of research, one of my long-term interests has been to seek out collaboration and funding opportunities to identify the common goals between these two fields for future research. 
